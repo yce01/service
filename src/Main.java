@@ -9,7 +9,6 @@ import java.time.format.DateTimeFormatter;
 import java.util.List;
 
 public class Main {
-
     private static final 영상 영상 = null;
     private static final List<영상> 영상들 = null;
     private static final 원고 주일원고 = null;

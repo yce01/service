@@ -3,7 +3,6 @@ import dto.*;
 import java.util.List;
 
 class 수요예배 implements 예배{
-
     private 성경 성경;
     private 광고 광고;
 
